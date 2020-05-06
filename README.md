@@ -40,5 +40,7 @@ Dashes are not important to either the decoder or the game, you can happily leav
 # License
 
 The game itself is by Pixel Painters Corp, I claim no copyright to it.
-All the code here is mine, and is by Foone Turing.
+
+All the code here is by Foone Turing.
+
 It's licensed under the terms of the GPL, version 3. (and you don't have to agree to it!)
