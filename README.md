@@ -37,15 +37,6 @@ So if you want repeatability for some reason, specify it.
 
 Dashes are not important to either the decoder or the game, you can happily leave them off. 
 
-# License
-
-The game itself is by Pixel Painters Corp, I claim no copyright to it.
-
-All the code here is by Foone Turing.
-
-It's licensed under the terms of the GPL, version 3. (and you don't have to agree to it!)
-
-
 # Level codes:
 
 You can use --level-list to generate a list of passwords for all levels. 
@@ -155,3 +146,11 @@ Level   98: LBLBL-BLBMZ-MHP93
 Level   99: ZZZZZ-ZZZ33-36BH5
 Level  100: 36363-636A5-AE42C
 ```
+
+# License
+
+The game itself is by Pixel Painters Corp, I claim no copyright to it.
+
+All the code here is by Foone Turing.
+
+It's licensed under the terms of the GPL, version 3. (and you don't have to agree to it!)
